@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Scanner;
 
-class GFG {
+class sample {
     public static void main(String[] args)
     {
         String str = "selcia", nstr = "";
